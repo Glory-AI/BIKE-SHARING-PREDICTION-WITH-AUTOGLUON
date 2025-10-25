@@ -13,7 +13,7 @@ The goal is to accurately forecast the number of bikes rented per hour based on 
 
 The workflow includes:
 
-* Loading and cleaning tabular data.
+* Loading and cleaning the tabular data.
 * Using AutoGluon to automatically train multiple models.
 * Performing feature engineering for improvement.
 * Conducting hyperparameter optimization (HPO) on selected models.
